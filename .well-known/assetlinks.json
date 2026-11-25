@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.shan.parhaicompanion",
+      "sha256_cert_fingerprints": ["F0:95:00:9D:5D:35:0B:66:8A:28:66:84:68:C8:BF:C2:16:0F:E0:65:EE:B4:B7:9A:A8:FF:4B:92:BF:9F:2C:0A"]
+    }
+  }
+]
